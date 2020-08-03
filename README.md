@@ -1,6 +1,8 @@
 # Sandboxx
 A simple simulation game built as a final project in python
 
+![gif](https://ardenfall.com/files/sandboxx.gif)
+
 ### REQUIREMENTS: 
   - pygame
   - numpy
